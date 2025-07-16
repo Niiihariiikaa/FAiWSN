@@ -26,8 +26,7 @@
 | 📊 Streamlit Dashboard         | Live visualization of predictions, confidence scores & drift alerts       |
 | 🛰️ Real WSN-Ready              | Structured for real-time gateway deployment in WSN-based environments      |
 
-![FAiWSN Dashboard](<img width="1882" height="792" alt="image" src="https://github.com/user-attachments/assets/f1dcf141-ad28-48e5-9323-eed2667237f3" />
-)
+(<img width="1882" height="792" alt="image" src="https://github.com/user-attachments/assets/f1dcf141-ad28-48e5-9323-eed2667237f3" />)
 
 
 
