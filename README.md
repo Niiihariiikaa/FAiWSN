@@ -112,16 +112,16 @@ Copy
 Edit
 # MLP Model Architecture
 
-<pre><code> model = Sequential([
+<pre><code> ``` model = Sequential([
     Dense(64, activation='relu', input_shape=(num_features,)),
     Dropout(0.3),
     Dense(32, activation='relu'),
     Dropout(0.2),
     Dense(num_classes, activation='softmax')
 ])
-model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])```
  
-</code>
+</code></pre>
 
 
 
